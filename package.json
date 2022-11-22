@@ -1,0 +1,28 @@
+{
+  "name": "coordinate-measurement",
+  "version": "1.0.0",
+  "description": "Measurement Beetween Coordinates\r <br>Pengukur antara koodinat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurramdandoni/coordinate-measurement.git"
+  },
+  "keywords": [
+    "Coordinate",
+    "Measurement",
+    "Koordinat",
+    "Pengukuran"
+  ],
+  "author": "Doni Nurramdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurramdandoni/coordinate-measurement/issues"
+  },
+  "homepage": "https://github.com/nurramdandoni/coordinate-measurement#readme",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
