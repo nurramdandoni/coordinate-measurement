@@ -1,6 +1,6 @@
 {
   "name": "coordinate-measurement",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Measurement Beetween Coordinates\r <br>Pengukur antara koodinat",
   "main": "index.js",
   "scripts": {
