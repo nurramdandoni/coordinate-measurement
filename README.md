@@ -34,4 +34,7 @@ Measurement Beetween Coordinates
 <td>6</td><td>decimal-place</td><td>0-8 <i>default(8 place)</i></td><td>-</td><td>Yes</td>
 </tr>
 </table>
+## Example Use
+<br><img src="https://user-images.githubusercontent.com/33200117/203292495-3e1e41e1-0e2f-49d8-bd54-6bd7dc9256f9.png"/>
+
 
