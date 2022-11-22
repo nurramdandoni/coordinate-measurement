@@ -1,6 +1,6 @@
 # coordinate-measurement
 Measurement Beetween Coordinates
-<br>Pengukur antara koodinat
+<br>Pengukur Antara Kordinat
 
 ## How to Use
 > npm install coordinate-measurement
